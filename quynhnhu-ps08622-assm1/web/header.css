@@ -1,0 +1,31 @@
+.container>header{
+    position: relative;
+}
+.company-infor{
+    position:absolute;
+    bottom: 10px;
+    left: 10px;
+}
+.company-infor>h1{}
+.company-infor> strong{}
+.top-menu{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+   
+    line-height: 30px;
+    border-bottom-left-radius: 30px;
+    padding:0 10px 0 30px;
+    box-shadow: 0 0 20px black;
+    background-color: black;
+}
+.top-menu>a{
+    text-decoration: none;
+    color:white;
+    font-variant: small-caps;
+}
+.top-menu>a>:hover{
+    background-color:RED;
+    color:black;
+
+}

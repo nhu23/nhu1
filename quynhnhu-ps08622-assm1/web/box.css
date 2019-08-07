@@ -1,0 +1,30 @@
+ .col-25{
+ width:25%;
+ float:left;
+ }
+ .prod{
+ border-radius:10 pixel;
+ box-shadow:0 0 5 pixel gray;
+ margin:5 pixel;
+ padding:5 pixel;
+ text-align:center;
+ position:relative;
+ }
+ .prod>.name{
+ font-variant:small-caps;
+ color:orangered;
+ }
+.prod>.image{
+ max-width:98%;
+ height:150 pixel;
+ margin-bottom:10 pixel;
+}
+ .prod>.price{
+ position:absolute;
+ left:5 pixel;
+ bottom:5 pixel;
+ font-family:Impact;
+ font-size:25 pixel;
+ color:orange;
+ }
+ 

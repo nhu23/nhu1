@@ -1,0 +1,152 @@
+body{
+    padding:0; 
+    margin: 0;
+}
+header{
+    height: 450px;
+    width: 1400;
+    background-image: url('../img/d.jpg');
+    background-size: 100% 100%
+
+    
+}
+nav{
+    background:black;
+    line-height: 50px;
+    
+    
+}
+article{
+    width:1140px;
+    height: 960px;
+    background:orange;
+    float: left;
+}
+box1{
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid white;
+    border-radius: 10PX;
+    box-shadow: 5px 5px 2px gray;
+    background-image: url('../img/giay.jpg');
+    background-color: aliceblue;
+    background-size: 100% 100%;
+    float: left;
+    
+}
+box2{
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid white;
+    border-radius: 10PX;
+    box-shadow: 5px 5px 2px gray;
+    background-image: url('../img/adidas.jpg');
+    background-color: aliceblue;
+    background-size: 100% 100%;
+    float: left;
+
+}
+box3{
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid white;
+    border-radius: 10PX;
+    box-shadow: 5px 5px 2px gray;
+    background-image: url('../img/vans.jpg');
+    background-color: aliceblue;
+    background-size: 100% 100%;
+    float: left;
+
+}
+box4{
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid white;
+    border-radius: 10PX;
+    box-shadow: 5px 5px 2px gray;
+    background-image: url('../img/oo.jpg');
+    background-color: aliceblue;
+    background-size: 100% 100%;
+    float: left;
+
+}
+box5{
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid white;
+    border-radius: 10PX;
+    box-shadow: 5px 5px 2px gray;
+    background-image: url('../img/tt.jpg');
+    background-color: aliceblue;
+    background-size: 100% 100%;
+    float: left;
+
+}
+box6{
+    width: 300px;
+    height: 400px;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid white;
+    border-radius: 10PX;
+    box-shadow: 5px 5px 2px gray;
+    background-image: url('../img/yellow.jpg');
+    background-color: aliceblue;
+    background-size: 100% 100%;
+    float: left;
+
+}
+
+
+aside{
+    width: 300px;
+    height: 160px;
+    background:white;
+    float: right;
+}
+box7{
+    width: 250px;
+    height: 300px;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid white;
+    border-radius: 10PX;
+    box-shadow: 5px 5px 2px gray;
+    background-image: url('../img/dd.jpg');
+    background-color: aliceblue;
+    background-size: 100% 100%;
+    float: left;
+
+}
+box8{
+    width: 250px;
+    height: 300px;
+    padding: 20px;
+    margin: 10px;
+    border: 5px solid white;
+    border-radius: 10PX;
+    box-shadow: 5px 5px 2px gray;
+    background-image: url('../img/rrr.jpg');
+    background-color: aliceblue;
+    background-size: 100% 100%;
+    float: left;
+
+}
+
+
+footer{
+    height: 40px;
+
+background: gray;
+clear: both;
+}

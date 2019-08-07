@@ -1,0 +1,24 @@
+ul.vmenu{
+    border: 1px solid lightgray;
+    margin: 5px;
+    padding: 0px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px black;
+    list-style: none;
+    font-variant: small-caps;
+}
+ul.vmenu>li>a{
+    display: block;
+    line-height: 30px;
+    border-bottom: 1px dotted white;
+    text-decoration: none;
+    font-variant: small-caps;
+    color: black;
+    padding-left: 25px;
+    background:url(../img/r.gif) no-repeat left center;
+}
+ul.vmenu>li>a:hover{
+    background color: yellow;
+    font-weight:bolder;
+
+}
