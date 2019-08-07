@@ -1,0 +1,29 @@
+
+ .menu>ul{
+    margin: 0px;
+    padding: 0px;
+    border-radius: 5px;
+    box-shadow: 0 0 5 orange;
+    list-style: none;
+    background-color: orangered;
+    height: 40px;
+}
+.menu>ul>li>a{
+    display: block;
+    line-height: 40px;
+    text-decoration: none;
+    font-variant: small-caps;
+    padding-left: 25px;
+    color: white;
+}
+.menu>ul>li>a:hover{
+    color: yellow;
+    font-weight: bolder;
+
+}
+.menu>ul>li{
+    display:inline-block
+}
+.menu>ul>li>a{
+    display:block
+}
